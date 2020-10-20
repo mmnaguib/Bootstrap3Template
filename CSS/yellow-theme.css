@@ -1,0 +1,33 @@
+/**** Start Default****/
+
+.navbar-dark .navbar-nav .active > a, 
+.navbar-dark .navbar-nav .active > a:hover, 
+.navbar-dark .navbar-nav .active > a:focus, 
+.navbar-dark .navbar-nav .nav-link.active,
+.dropdown-menu .dropdown-item:hover,
+.dropdown-menu .dropdown-item:focus,
+.carousel-indicators .active,
+.tool-box .gear-cheak
+{
+	background-color: #ffd500;
+}
+.navbar-dark .navbar-brand span,
+.about span,
+.testimonal span,
+.footer h3,
+.footer span
+{
+	color: #ffd500
+}
+.tool-box .color-option,
+.testimonal .carousel-indicators li.active,
+.price_table .price_box:hover p 
+{
+	border: 3px solid #ffd500;
+}
+
+.dropdown-menu{
+	border-top: 3px solid #ffd500;
+}
+
+/**** End Default****/

@@ -1,0 +1,67 @@
+/*Start About Us*/
+.breadcrumb-holder{
+	background: #f5f5f5;
+}
+.breadcrumb{
+	padding: 10px;
+	margin-bottom: 0;
+	background: none
+}
+.about-us {padding: 70px }
+.about-us h1 
+{
+	font-family: "Raleway",sans-serif;
+	letter-spacing: -3px;
+	font-size: 62px;
+}
+.about-us hr{width: 70%;}
+
+
+/*start features*/
+.about-features{
+	padding: 0 0 70px;
+}
+.about-features h3{
+	letter-spacing: -1px;
+	font-family: "Raleway",sans-serif;
+}
+.about-features p{
+	margin-bottom: 20px;
+}
+/*End features*/
+
+/*start ceo*/
+.about-ceo{
+	background: #eee;
+	padding-top: 40px;
+}
+.about-ceo .h1{
+	font-family: "Raleway",sans-serif;
+}
+.about-ceo .lead{line-height: 1.8}
+
+.about-ceo .btn-primary{
+	background: #333;
+	color: #fff;
+	border-color: #333;
+	display: inline-block;
+	margin-bottom: 30px;
+}
+/*End ceo*/
+
+/*start faq*/
+.faq {
+	padding: 40px 0
+}
+.faq h1{
+	letter-spacing: -3px;
+	font-family: "Raleway",sans-serif;
+	font-size: 60px;
+}
+.faq h1 ~ hr{
+	width: 70%;
+}
+.question {margin-bottom: 10px;}
+/*end faq*/
+
+/*ENd About Us*/
